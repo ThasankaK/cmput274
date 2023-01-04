@@ -1,0 +1,4 @@
+  File "/home/ubuntu/Host/MorningProblems/n_sum-ThasankaK/soln/n_sum.py", line 17
+    print(' '.join(str(e) for e in emptylist)
+         ^
+SyntaxError: '(' was never closed

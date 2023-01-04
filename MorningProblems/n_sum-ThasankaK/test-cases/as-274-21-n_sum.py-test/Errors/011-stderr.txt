@@ -1,0 +1,6 @@
+  File "/home/ubuntu/Host/MorningProblems/n_sum-ThasankaK/soln/n_sum.py", line 18
+    print(' '.join(str(i) for i in emptylist)
+         ^
+SyntaxError: '(' was never closed
+
+Expected file "test-cases/as-274-21-n_sum.py-test/Expected/011-stderr.txt" has no output file match

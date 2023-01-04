@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/Host/MorningProblems/bakery-ThasankaK/soln/bakery.py", line 8, in <module>
+    for k, e in enumerate(temp[t:max+t]):
+TypeError: unsupported operand type(s) for +: 'builtin_function_or_method' and 'int'
+
+Expected file "test-cases/as-274-21-bakery.py-test/Expected/003-stdout.txt" has no output file match
+Expected file "test-cases/as-274-21-bakery.py-test/Expected/003-stderr.txt" has no output file match

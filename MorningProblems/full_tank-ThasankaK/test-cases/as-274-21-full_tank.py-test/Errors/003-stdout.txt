@@ -1,0 +1,7 @@
+  File "/home/ubuntu/Host/MorningProblems/full_tank-ThasankaK/soln/full_tank.py", line 20
+    print(refuelTime + length
+         ^
+SyntaxError: '(' was never closed
+
+Expected file "test-cases/as-274-21-full_tank.py-test/Expected/003-stderr.txt" has no output file match
+Expected file "test-cases/as-274-21-full_tank.py-test/Expected/003-stdout.txt" has no output file match

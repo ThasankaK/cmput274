@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/Host/WeeklyExercises/WE06-ThasankaK/moneybags/soln/moneybags.py", line 22, in <module>
+    elif (len(networths) - (N+1) >= j) and (len(networths) - (N+1) >= j):
+NameError: name 'N' is not defined
+
+Expected file "test-cases/as-274-21-moneybags.py-test/Expected/sample1-stdout.txt" has no output file match
+Expected file "test-cases/as-274-21-moneybags.py-test/Expected/sample1-stderr.txt" has no output file match

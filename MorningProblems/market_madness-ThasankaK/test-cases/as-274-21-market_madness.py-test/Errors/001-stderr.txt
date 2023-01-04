@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/Host/MorningProblems/market_madness-ThasankaK/soln/market_madness.py", line 14, in <module>
+    print(max(newlist))
+ValueError: max() arg is an empty sequence
+
+Expected file "test-cases/as-274-21-market_madness.py-test/Expected/001-stderr.txt" has no output file match

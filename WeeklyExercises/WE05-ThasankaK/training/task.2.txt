@@ -1,0 +1,50 @@
+% Credit:  Paul Lu, Copyright 2022
+%pos-features good hungry delicious tasty yummy
+%pos-label #goodfood
+%
+#goodfood	that was delicious
+#goodfood	yummy food
+#goodfood	good eats
+#goodfood	may I have more please
+#goodfood	just like mom's cooking
+#goodfood	like when I was growing up
+#goodfood	that tastes good
+#goodfood	such wonderful food
+#goodfood   that tasted good
+#goodfood   this tastes good
+#goodfood   I am enjoying this food
+#goodfood   wow this is really good
+#goodfood   this is the best food I have tasted
+#goodfood   this tastes good I love it
+#goodfood   what delicious food
+#goodfood   that food was very yummy
+#goodfood   this food is very tasty
+#goodfood   tasty food
+#goodfood   eating good
+#goodfood   eating tasty food
+#goodfood   eating delicious food
+#goodfood   I want more
+#goodfood   I want more good food
+#goodfood   I like it
+%
+%
+#negative	I did not like that
+#negative	what an unusual taste
+#negative	not my favourite
+#negative	not again
+#negative	I am not very hungry right now
+#negative	nothing for me, thank you
+#negative	no thank you
+#negative	yuck
+#negative   that tasted bad
+#negative   this is bad
+#negative   that was not pleasant
+#negative   wow this is really bad
+#negative   this is awful
+#negative   I never want to eat that again
+#negative   I can not finish this
+#negative   I can not eat this
+#negative   I am not hungry
+#negative   gross
+#negative   not for me
+#negative   I feel sick

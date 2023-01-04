@@ -1,0 +1,7 @@
+  File "/home/ubuntu/Host/MorningProblems/market_madness-ThasankaK/soln/market_madness.py", line 8
+    if min(newlist) > profits[i]
+                                ^
+SyntaxError: expected ':'
+
+Expected file "test-cases/as-274-21-market_madness.py-test/Expected/000-stdout.txt" has no output file match
+Expected file "test-cases/as-274-21-market_madness.py-test/Expected/000-stderr.txt" has no output file match

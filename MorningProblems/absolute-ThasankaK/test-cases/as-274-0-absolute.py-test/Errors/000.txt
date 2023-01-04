@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/Host/MorningProblems/absolute-ThasankaK/soln/absolute.py", line 2, in <module>
+    a = int(input('Enter a number: '))
+ValueError: invalid literal for int() with base 10: '2 7'
